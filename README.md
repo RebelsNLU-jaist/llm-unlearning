@@ -15,7 +15,7 @@ This repository contains code and resources for the paper **"On Effects of Steer
 Follow the steps below to set up the environment:
 
 ```bash
-conda create -n unlearning python=3.9 -y
+conda create -n unlearning
 conda activate unlearning
 pip install -r requirements.txt
 ```
