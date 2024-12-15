@@ -1,6 +1,6 @@
-# AAAI-25: On Effects of Steering Latent Representations for Large Language Model Unlearning
+# AAAI-25: On Effects of Steering Latent Representation for Large Language Model Unlearning
 
-This repository contains code and resources for the paper **"On Effects of Steering Latent Representations for Large Language Model Unlearning"** by Dang Huu-Tien, Trung-Tin Pham, Hoang Thanh-Tung, and Naoya Inoue.
+This repository contains code and resources for the paper **"On Effects of Steering Latent Representation for Large Language Model Unlearning"** by Dang Huu-Tien, Trung-Tin Pham, Hoang Thanh-Tung, and Naoya Inoue.
 
 ## Table of Contents
 
