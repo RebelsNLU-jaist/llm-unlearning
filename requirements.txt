@@ -1,0 +1,9 @@
+tqdm
+torch
+pandas
+transformers
+datasets
+accelerate==0.23.0
+peft==0.5.0
+lm-eval
+wandb
